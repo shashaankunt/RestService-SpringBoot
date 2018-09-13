@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Nineth
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: shashaankbomule
+Implementation-Vendor-Id: Atme.Nine
+Build-Jdk: 1.8.0_181
+Implementation-URL: http://projects.spring.io/spring-boot/Nineth/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
